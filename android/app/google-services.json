@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190551072132",
+    "project_id": "flashchat-54d51",
+    "storage_bucket": "flashchat-54d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190551072132:android:19230a387b9257ea0311d1",
+        "android_client_info": {
+          "package_name": "co.startlingmind.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190551072132-03ua400amoub47tc8oq7kh5bp96eva3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDotu6YM82ID4X0lEbdi5VNqH-of_Thc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190551072132-03ua400amoub47tc8oq7kh5bp96eva3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
